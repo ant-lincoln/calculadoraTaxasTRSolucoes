@@ -1,6 +1,6 @@
 # Calculadora para empréstimo
 
-<img src="https://i.ibb.co/hms9yBk/trsolucoes.gif">
+<img src="https://i.ibb.co/tZKrL5r/trsolucoes2.gif">
 
 ### Simulador para empréstimo no cartão de crédito solicitado pelo cliente TR Soluções
 Obs: A calculadora foi só um adicional. O site eu fiz em wordpress.
